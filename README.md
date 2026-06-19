@@ -14,7 +14,7 @@ This repository contains the projects completed during Week 1 of the App Develop
 
 
 
-1. Java
+1\. Java
 
 2\. Android Studio
 
@@ -64,7 +64,7 @@ A basic Android application developed to verify the Android development environm
 
 
 
-1. Displays "Hello World!" on the screen.
+1\. Displays "Hello World!" on the screen.
 
 2\. Runs successfully on Android Emulator.
 
@@ -76,7 +76,7 @@ A basic Android application developed to verify the Android development environm
 
 
 
-1. Android Studio setup
+1\. Android Studio setup
 
 2\. Android Emulator configuration
 
@@ -102,7 +102,7 @@ A simple Android application that allows users to increment, decrement, and rese
 
 
 
-1. Increment counter
+1\. Increment counter
 
 2\. Decrement counter
 
@@ -116,7 +116,7 @@ A simple Android application that allows users to increment, decrement, and rese
 
 
 
-1. Button Click Events
+1\. Button Click Events
 
 2\. TextView Manipulation
 
@@ -130,7 +130,7 @@ A simple Android application that allows users to increment, decrement, and rese
 
 
 
-1. Android Studio Installation
+1\. Android Studio Installation
 
 2\. Java Development Environment Setup
 
